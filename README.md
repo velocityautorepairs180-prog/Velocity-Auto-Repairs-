@@ -6,8 +6,8 @@ A simple Android app for Velocity Auto Repairs/Services.
 - Main branch: 230 Ngqwangi Drive, Lower Crossroads, Cape Town 7785
 - Second branch: Bedford Street, Chris Hani, Mthatha, Eastern Cape
 - Phone: 067 658 9756
-- WhatsApp: 078 945 1908
-- Email: Masikolitha@gmail.com
+- WhatsApp: 067 658 9756 
+- Email: VelocityAutoRepairs@gmail.com
 - Application ID: com.velocityauto.app
 
 ## Build
