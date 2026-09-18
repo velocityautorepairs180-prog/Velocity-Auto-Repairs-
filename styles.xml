@@ -1,9 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
-<style name="AppTheme" parent="android:style/Theme.Material.Light.NoActionBar">
-    <item name="android:fontFamily">sans</item>
-    <item name="android:colorAccent">#e11d2e</item>
-    <item name="android:navigationBarColor">#090d14</item>
-    <item name="android:statusBarColor">#090d14</item>
-    <item name="android:windowLightStatusBar">false</item>
-</style>
+    <style name="Theme.VelocityAuto" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="android:fontFamily">sans</item>
+        <item name="android:windowLightStatusBar">false</item>
+        <item name="android:statusBarColor">@color/dark_background</item>
+        <item name="android:navigationBarColor">@color/dark_background</item>
+    </style>
 </resources>
